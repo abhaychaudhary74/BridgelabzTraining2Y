@@ -1,8 +1,7 @@
 # BridgeLabz Training 2Y
 
 This is my BridgeLabz training repository. I keep each module in a separate
-branch, while the `main` branch contains only this README as an index of my
-work.
+branch, while the `main` branch are my default branch
 
 I update this index whenever I add or modify a branch so that it shows the
 latest folder titles and filenames.
